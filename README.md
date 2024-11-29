@@ -1,7 +1,7 @@
 
 # Asus A520M-A II Ryzentosh
 
-Success in Ryzentosh Sonoma.
+Success in Ryzentosh Sequoia.
 
 ![Captura de pantalla 2024-11-29 a la(s) 1 02 37 p  m](https://github.com/user-attachments/assets/78f758cf-5fbd-43ad-99d8-e8aa0a4d28c8)
 
