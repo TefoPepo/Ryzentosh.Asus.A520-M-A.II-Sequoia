@@ -3,7 +3,7 @@
 
 Success in Ryzentosh Sonoma.
 
-![WhatsApp Image 2024-11-29 at 11 35 29](https://github.com/user-attachments/assets/03122b61-3389-4858-8536-090b5b16e7ae)
+![Captura de pantalla 2024-11-29 a la(s) 1 02 37 p  m](https://github.com/user-attachments/assets/78f758cf-5fbd-43ad-99d8-e8aa0a4d28c8)
 
 ## Specs
 
