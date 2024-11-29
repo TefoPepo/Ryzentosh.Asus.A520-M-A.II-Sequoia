@@ -17,7 +17,7 @@ Success in Ryzentosh Sequoia.
 | Audio               | Realtek HD Audio ALC887                            |
 | Ethernet            | RealTek RTL8168/8111 Gigabit Ethernet              |
 
-## What's working
+## What's working?
 
 - [x] Audio (Input & Output)
 - [x] Ethernet
